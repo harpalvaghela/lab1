@@ -1,5 +1,5 @@
-# This Python program asks the user to enter three numbers. 
-# It then uses the "find_max" function to determine which of these numbers is the largest. 
-# The function compares numbers using "if-elif-else" statements. 
-# Once the program has found the largest number, it displays it to the user. 
-# It introduces basic concepts such as user input, functions, conditional logic and output in Python.
+This Python program asks the user to enter three numbers. 
+It then uses the "find_max" function to determine which of these numbers is the largest. 
+The function compares numbers using "if-elif-else" statements. 
+Once the program has found the largest number, it displays it to the user. 
+It introduces basic concepts such as user input, functions, conditional logic and output in Python.
